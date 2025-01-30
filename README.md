@@ -6,6 +6,7 @@ I have over 12 years of experience in International Non-Governmental Organizatio
 
 
 🔍 Interests
+
 📊 Data Analysis & Visualization
 
 🛠️ Data Manipulation & Automation
